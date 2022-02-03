@@ -1,2 +1,1 @@
-# rsschool-cv
-Rs-School-LT CV
+### [Click here to see my CV](https://sirgoldman.github.io/rsschool-cv/cv)
