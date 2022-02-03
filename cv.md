@@ -13,4 +13,4 @@ Mostly I worked with Wordpress and Woocommerce, creating various blogs, business
 HTML, CSS, SASS, JS, PHP.
 
 ### Summary
-After working with wordpress 5+ years I want to learn new things and work on new projects. I'm truly passionate about web development and programing in general.
+After working with wordpress 5+ years I want to learn new things and work on new projects. I'm truly passionate about web development and programing in general!
