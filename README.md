@@ -1,1 +1,1 @@
-## [Click here to see my CV](https://sirgoldman.github.io/rsschool-cv/cv)
+# [Click here to see my CV](https://sirgoldman.github.io/rsschool-cv/cv)
